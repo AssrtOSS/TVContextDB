@@ -8,7 +8,3 @@ description: "File-based translation context for the TV series Only Connect."
 已创建并验证：
 
 
-
-## Episode notes
-
-- [Season 22 episode notes](S22.md)

@@ -128,7 +128,3 @@ Spin-off of the podcast *Conan O'Brien Needs a Friend* and its sub-series *Conan
 3. The Futon Critic: Episode listings and renewal announcements — https://www.thefutoncritic.com/
 4. Variety/Deadline: Renewal announcements (S2 May 2024, S3 March 2025)
 5. Television Academy: Emmy wins (2024, 2025)
-
-## Episode notes
-
-- [Season 03 episode notes](S03.md)

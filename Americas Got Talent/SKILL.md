@@ -229,7 +229,3 @@ AGT 没有固定的虚构角色；“人物”主要是主持人、评委、客�
 - 《美国达人》中文维基条目：用于核对节目中文名及历季主持人与评委译名  
   https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA
 - ASSRT 历史字幕参考：字幕 ID 184626、155777、155695（用户提供），用于核对《美国达人》、Nick Cannon、Piers Morgan、Sharon Osbourne、Howie Mandel、Landen Swank、Seth Grabel、Anna Graceman 等旧字幕中的既有写法。
-
-## Episode notes
-
-- [Season 21 episode notes](S21.md)

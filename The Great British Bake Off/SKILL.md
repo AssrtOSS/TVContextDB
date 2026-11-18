@@ -16,7 +16,3 @@ description: "File-based translation context for the TV series The Great British
 - Sources 列出6个参考来源URL
 
 繁体中文人名（瑪莉·貝利、保羅·荷里活）引自中文维基百科已建立译名。
-
-## Episode notes
-
-- [Season 17 episode notes](S17.md)

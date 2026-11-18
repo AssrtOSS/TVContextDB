@@ -103,7 +103,3 @@ Four celebrity coaches search for unsigned singing talent through **blind auditi
 - Wikipedia: *The Voice UK* — https://en.wikipedia.org/wiki/The_Voice_UK
 - ITV Official: *The Voice UK* — https://www.itv.com/thevoiceuk
 - BBC News archive (multiple articles cited in Wikipedia references)
-
-## Episode notes
-
-- [Season 14 episode notes](S14.md)

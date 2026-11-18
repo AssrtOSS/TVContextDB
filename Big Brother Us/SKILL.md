@@ -172,7 +172,3 @@ description: "File-based translation context for the TV series Big Brother Us."
 - Wikipedia，《Big Brother 21》：https://en.wikipedia.org/wiki/Big_Brother_21_(American_season)
 - Historical ASSRT reference 659135, 《老大哥（美版）》第 21 季第 14 集
 - Historical ASSRT reference 659134, 《老大哥（美版）》第 21 季第 13 集
-
-## Episode notes
-
-- [Season 28 episode notes](S28.md)

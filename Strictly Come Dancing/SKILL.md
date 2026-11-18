@@ -80,7 +80,3 @@ A fixed cohort of British and international celebrities (actors, broadcasters, c
 - BBC History of the BBC — Strictly Come Dancing: https://www.bbc.com/historyofthebbc/anniversaries/may/strictly-come-dancing
 - IMDb, Strictly Come Dancing: https://m.imdb.com/title/tt0411027/
 - 中文/繁體中文媒體使用「舞动奇迹/舞動奇蹟」對應 BBC 原版的實例：https://www.english.eco/news/2026-05-07-global-news-003016/ ; https://www.suuk.org/news/details.asp?id=8794 ; Reddit zh-hans/zh-hant Strictly communities using 舞动奇迹 / 舞動奇蹟
-
-## Episode notes
-
-- [Season 24 episode notes](S24.md)

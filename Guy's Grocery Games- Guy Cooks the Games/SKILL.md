@@ -166,7 +166,3 @@ James Beard Award 是美国重要的烹饪与餐饮业奖项，建议译为“�
 - Food Network，《Guy’s Grocery Games: Triple D Legends Tournament》：https://www.foodnetwork.com/shows/guys-grocery-games/photos/guys-grocery-games-diners-drive-ins-and-dives-tournament
 - Hulu，《Guy’s Grocery Games: Guy Cooks the Games》系列简介：https://www.hulu.com/series/guys-grocery-games-guy-cooks-the-games-b4eb1fbc-75ca-4b98-a10a-e4083dbc3d66
 - ASSRT 历史字幕参考，字幕 ID 669374：https://assrt.net/sub/669374
-
-## Episode notes
-
-- [Season 42 episode notes](S42.md)

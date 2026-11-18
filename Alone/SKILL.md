@@ -338,7 +338,3 @@ description: "File-based translation context for the TV series Alone."
   https://www.opensubtitles.com/zh-CN/tvshows/2015-alone
 - Cambridge Dictionary — `tap out`  
   https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B1%89%E8%AA%9E-%E7%B9%81%E9%AB%94/tap-out
-
-## Episode notes
-
-- [Season 13 episode notes](S13.md)

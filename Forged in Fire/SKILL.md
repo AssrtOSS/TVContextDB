@@ -292,7 +292,3 @@ description: "File-based translation context for the TV series Forged in Fire."
 - American Bladesmith Society — Master Bladesmith目录与资格背景：  
   https://www.americanbladesmith.org/master-bladesmiths/
 - Historical ASSRT字幕参考：用户提供的ID 800000以下记录中未找到匹配字幕，因此本稿未采用历史ASSRT字幕作为译名证据。
-
-## Episode notes
-
-- [Season 11 episode notes](S11.md)

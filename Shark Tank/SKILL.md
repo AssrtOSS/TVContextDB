@@ -126,7 +126,3 @@ These renderings are consistent across Wikipedia zh, Baidu Baike, YYeTS, Plex zh
 - YYeTS 人人影视, 创智赢家 Shark Tank (2009): https://www.yysub.net/resource/32921
 - Plex zh show page, 创智赢家: https://watch.plex.tv/zh/show/shark-tank
 - Bilibili fan-sub label, shark tank 创智赢家: https://www.bilibili.com/video/BV1onWDz5EwK/
-
-## Episode notes
-
-- [Season 18 episode notes](S18.md)

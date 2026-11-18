@@ -149,7 +149,3 @@ Historical ASSRT references below ID 800000 returned no matches for this title. 
 - https://tw.voicetube.com/videos/203964 and https://tw.voicetube.com/videos/206047/88592131 — VoiceTube; demonstrates contemporary Chinese-language audience exposure pattern (English title retained, descriptive Chinese subtitles)
 - https://subsaga.com/bbc/comedy/have-i-got-news-for-you/series-46/episode-11.html — English subtitle sample for opener "Good evening and welcome to Have I Got News For You"
 - https://www.yingzhiben.com/entry/have-i-got-news-for-you — Chinese-language metadata page confirming 1990-09-28 start date and 30-minute runtime
-
-## Episode notes
-
-- [Season 72 episode notes](S72.md)

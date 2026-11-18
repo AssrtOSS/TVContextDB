@@ -22,7 +22,3 @@ description: "File-based translation context for the TV series Real Time with Bi
 6. **文化背景与翻译注意事项** — 节目定位、翻译原则、文化背景、敏感话题处理
 7. **历史背景** — 前身节目、节目演变、争议事件
 8. **参考来源** — 20 个权威来源（Wikipedia、IMDb、HBO、百度百科等）
-
-## Episode notes
-
-- [Season 24 episode notes](S24.md)

@@ -239,7 +239,3 @@ SNL 每季必拟声总统/候选人/政要，**译名遵循 "原名人中文译�
 - TVSA: "Saturday Night Live – About the Show" — https://www.tvsa.co.za/shows/viewshowabout.aspx?showid=324
 - Rotten Tomatoes: "Saturday Night Live Season 1" — https://www.rottentomatoes.com/tv/saturday_night_live/s01
 - Soap Opera Network: "NBC to Air First-Ever Episode Of 'Saturday Night Live'" — https://www.soapoperanetwork.com/2025/02/nbc-first-ever-saturday-night-live
-
-## Episode notes
-
-- [Season 52 episode notes](S52.md)

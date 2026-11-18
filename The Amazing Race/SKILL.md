@@ -128,7 +128,3 @@ description: "File-based translation context for the TV series The Amazing Race.
 - https://web.archive.org/web/20190815072641/http:/ent.sina.com.cn/z/v/2014-09-11/15124207184.shtml
 
 说明：未提供任何 ASSRT 历史字幕样本（系统显示未找到 ID800000 以下匹配项），因此所有术语对照均以维基百科、节目官方资料、CBS/Paramount 新闻稿及主流电视网字幕译法为准，未引用第三方字幕组实际译法。如后续引入 ASSRT 历史字幕，应优先沿用经取逐季内已稳定使用的译法，并以本文术语表为冲突解决基准。
-
-## Episode notes
-
-- [Season 39 episode notes](S39.md)

@@ -178,7 +178,3 @@ description: "File-based translation context for the TV series Impractical Joker
 12. YouTube — truTV 官方频道 *Impractical Jokers* 片段: https://www.youtube.com/@ImpracticalJokers  
 13. Moviepilot.de — *Impractical Jokers* Episodenguide: https://m.moviepilot.de/serie/impractical-jokers/episodenguide  
 14. 知乎 — 「Joker」为何会翻译成"小丑"? : https://www.zhihu.com/question/22733415
-
-## Episode notes
-
-- [Season 13 episode notes](S13.md)

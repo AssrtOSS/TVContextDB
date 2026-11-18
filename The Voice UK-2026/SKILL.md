@@ -127,7 +127,3 @@ Writing the background document:
 - Wikipedia（中文）— 潔西·J 条目中的 The Voice UK 引用: https://zh.wikipedia.org/wiki/%E6%B4%81%E8%A5%BF%C2%B7J
 - 凤凰网娱乐 — 节目模式背景介绍: https://ent.ifeng.com/tv/special/haoshengyin/
 - 美剧迷 — 《英国之声》资源与译名示例: https://www.meijumi.net/12862.html
-
-## Episode notes
-
-- [Season 14 episode notes](S14.md)

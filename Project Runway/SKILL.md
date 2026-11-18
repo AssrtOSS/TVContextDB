@@ -208,7 +208,3 @@ description: "File-based translation context for the TV series Project Runway."
 - ASSRT 字幕参考，ID 625343：<https://assrt.net/xml/sub/625/625343.xml>
 - ASSRT 字幕参考，ID 613774：<https://assrt.net/xml/sub/613/613774.xml>
 - ASSRT 字幕参考，ID 613502：<https://assrt.net/xml/sub/613/613502.xml>
-
-## Episode notes
-
-- [Season 22 episode notes](S22.md)

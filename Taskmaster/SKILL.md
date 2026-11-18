@@ -102,7 +102,3 @@ Special episodes:
 - British Comedy Guide (episode guides, contestant lists) — https://www.comedy.co.uk/tv/taskmaster/
 - Radio Times archive — https://www.radiotimes.com/programme/b-36shc6/taskmaster/
 - Taskmaster YouTube Channel (official clips, #HomeTasking) — https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ
-
-## Episode notes
-
-- [Season 22 episode notes](S22.md)

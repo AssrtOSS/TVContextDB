@@ -113,7 +113,3 @@ The Graham Norton Show 是一档英国喜剧类电视脱口秀（comedy chat sho
 - IMDb：https://www.imdb.com/title/tt0924651/
 - 百度百科：https://baike.baidu.com/item/格拉汉姆·诺顿秀/53589563
 - BBC 报名"红椅"页面：https://www.bbc.co.uk/programmes/articles/5948hzq0Dt1y9QZWV7gTv6y/be-on-the-show
-
-## Episode notes
-
-- [Season 34 episode notes](S34.md)

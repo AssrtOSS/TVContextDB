@@ -98,7 +98,3 @@ Teams of two home cooks with pre-existing relationships (partners, siblings, fri
 - Portico Media feature (Chinese media coverage): https://www.porticomedia.com/entNewsC/showCP/1640535
 - Reddit Chinese community usage (confirming "我的厨房规则" / "我的廚房規則"): https://www.reddit.com/r/MyKitchenRules/comments/1p4x4z8/
 - BT/Chinese subtitle community naming conventions (e.g., 1lou.pro, btbtt15.com) confirming "我的厨房我做主" for season packs
-
-## Episode notes
-
-- [Season 16 episode notes](S16.md)

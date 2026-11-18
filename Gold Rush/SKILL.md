@@ -175,7 +175,3 @@ description: "File-based translation context for the TV series Gold Rush."
 - https://npshistory.com/publications/klse/curriculum/glossary.htm
 - http://www.goldrushu.com/Glossary-of-Mining-Terms.html
 - https://www.chinarong.cn/gupiaorumen/20210707214249.html
-
-## Episode notes
-
-- [Season 17 episode notes](S17.md)

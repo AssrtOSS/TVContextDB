@@ -25,7 +25,3 @@ description: "File-based translation context for the TV series MasterChef Austra
 **Sources:** 20 cited URLs including Wikipedia (EN/ZH), Network Ten official, TV Tonight, WHO Magazine, Chattr, Pedestrian TV, BuzzFeed, Fandom Wiki, TVmaze, Metacritic, and Bilibili subtitle archives.
 
 No historical ASSRT subtitles below ID 800000 were found, so all renderings were cross-referenced from multiple reliable public sources to resolve conflicts.
-
-## Episode notes
-
-- [Season 18 episode notes](S18.md)

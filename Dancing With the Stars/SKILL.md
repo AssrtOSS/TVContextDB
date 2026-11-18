@@ -42,7 +42,3 @@ description: "File-based translation context for the TV series Dancing With the 
 - 3个Wikipedia参考来源（中英文）
 
 文档基于公开可靠来源编制，可直接用于字幕翻译工作。
-
-## Episode notes
-
-- [Season 35 episode notes](S35.md)

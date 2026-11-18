@@ -285,7 +285,3 @@ description: "File-based translation context for the TV series Masterchef US."
   https://en.wikipedia.org/wiki/MasterChef_(American_season_15)
 - 中文公开资料《厨艺大师（美国版）》：  
   https://zh.wikipedia.org/zh-hans/%E6%88%91%E8%A6%81%E5%81%9A%E5%BB%9A%E7%A5%9E_(%E7%BE%8E%E5%9C%8B%E7%89%88)
-
-## Episode notes
-
-- [Season 16 episode notes](S16.md)

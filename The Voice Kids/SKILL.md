@@ -111,7 +111,3 @@ Since each season has new child contestants, there are no continuing "characters
 - Wikipedia: "La Voz Kids (American TV series)" — https://en.wikipedia.org/wiki/La_Voz_Kids
 - Wikipedia: "The Voice of Holland" (franchise origin) — https://en.wikipedia.org/wiki/The_Voice_of_Holland
 - Talpa Media official site — https://www.talpa.com/formats/the-voice-kids/
-
-## Episode notes
-
-- [Season 14 episode notes](S14.md)

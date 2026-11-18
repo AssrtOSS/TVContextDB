@@ -128,7 +128,3 @@ description: "File-based translation context for the TV series The Kardashians."
 - Disney+ 台湾 / 香港官方页: https://www.disneyplus.com/zh-tw/browse/entity-7840bf30-f440-48d4-bf81-55d8cb24457a
 - Her Campus — Iconic Kardashian Sayings (含 "Rise and Shine" 来源): https://www.hercampus.com/culture/kardashians-most-iconic-sayings-phrases/
 - E! News — Scott Disick on Pete Davidson / Travis Barker: https://www.eonline.com/news/1324315/how-scott-disick-really-feels-about-pete-davidson-and-travis-barker
-
-## Episode notes
-
-- [Season 08 episode notes](S08.md)

@@ -95,7 +95,3 @@ description: "File-based translation context for the TV series QI."
 - Bilibili community subs (Series J XL example) — https://www.bilibili.com/video/BV14E41137d6/  
 - LWLTV Chinese listing — https://www.lwltv.com/subjects/492318230040346623  
 - 电影志 Chinese cast list — https://www.dianyingzhi.com/tv/666050
-
-## Episode notes
-
-- [Season 24 episode notes](S24.md)

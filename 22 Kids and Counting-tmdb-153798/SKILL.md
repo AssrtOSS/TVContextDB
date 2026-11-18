@@ -153,7 +153,3 @@ Pets (recurring "characters" — treat as named cast)
 - The Independent, 22nd child announcement: https://www.independent.co.uk/life-style/radford-family-pregnant-britains-biggest-22-children-sue-noel-a9164591.html
 
 No ASSRT subtitles below ID 800000 matched this title; the Chinese renderings above are established from English originals and UK press conventions and remain provisional pending a confirmed ASSRT fix above the ID cutoff.
-
-## Episode notes
-
-- [Season 09 episode notes](S09.md)

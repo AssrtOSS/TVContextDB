@@ -47,7 +47,3 @@ Survivor 是一档户外生存竞技真人秀。每季将16–20名素人或回�
 | Immunity Challenge | 豁免挑战 | 赢方免于淘汰投票 |
 | Merge | 合并 | 部落合并为单一部落，标志个人赛开始 |
 | Exile Island | 流放岛 | 被暂时隔离至
-
-## Episode notes
-
-- [Season 51 episode notes](S51.md)

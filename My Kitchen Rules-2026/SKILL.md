@@ -83,7 +83,3 @@ My Kitchen Rules（缩写 MKR）是澳大利亚竞技烹饪真人秀，2010年2�
 - https://www.primevideo.com/detail/0L49PS309H397US8RIY8ZQ7PJV
 - https://www.primevideo.com/-/zh_TW/detail/0GQJXHWQUWG68A95GVV6H1RX1R
 - https://www.filmbaike.com/wiki/my-kitchen-rules%E7%AC%AC12%E5%AD%A3
-
-## Episode notes
-
-- [Season 16 episode notes](S16.md)

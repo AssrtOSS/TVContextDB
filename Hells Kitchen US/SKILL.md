@@ -179,7 +179,3 @@ Gordon Ramsay (Head Chef / Host)
 - TheTVDB: "Hell's Kitchen (US)" — https://thetvdb.com/series/hells-kitchen-us
 - The Futon Critic: Fox press release (May 2005) — http://www.thefutoncritic.com/news/2005/05/24/fox-reheats-hells-kitchen-mondays-june-6-and-july-11--18433/
 - Episode guide data: EpisodeData.com — http://www.episodedata.com/series.php?id=350
-
-## Episode notes
-
-- [Season 25 episode notes](S25.md)

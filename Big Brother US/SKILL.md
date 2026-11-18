@@ -306,7 +306,3 @@ Julie Chen Moonves 负责主持比赛和现场淘汰，与房客的关系主要�
 - Liberty University，Big Brother 中文化身份、联盟和日记室语言研究：https://digitalcommons.liberty.edu/masters/1169
 - 中文参考条目：《老大哥（美国版）》：https://zh.wikipedia.org/zh-hans/%E8%80%81%E5%A4%A7%E5%93%A5_(%E7%BE%8E%E5%9B%BD%E7%89%88)
 - 历史 ASSRT 字幕参考：ID 659134、659135；其中确认了“老大哥、房主、房客、否决权、钻石否决权、六个火枪手”等中文译法。
-
-## Episode notes
-
-- [Season 28 episode notes](S28.md)

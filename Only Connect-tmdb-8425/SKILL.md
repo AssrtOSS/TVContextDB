@@ -111,7 +111,3 @@ There is no scripted cast. The recurring on-screen personalities and how they ar
 - TheTVDB, Only Connect — https://thetvdb.com/index.php?tab=series&id=83221
 - Only Connect Wiki (Fandom), Series 1 — https://only-connect.fandom.com/wiki/Series_1
 - Media Wiki (Fandom), Only Connect — https://media.fandom.com/wiki/Only_Connect
-
-## Episode notes
-
-- [Season 22 episode notes](S22.md)

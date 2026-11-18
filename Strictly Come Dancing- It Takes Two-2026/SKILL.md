@@ -119,7 +119,3 @@ A daytime magazine show aired every weekday alongside each autumn series of *Str
 
 ---  
 *Prepared for subtitle translation reference. All character/term renderings reflect dominant fan-sub and official BBC Chinese usage where identifiable; adopt one consistent set per project.*
-
-## Episode notes
-
-- [Season 24 episode notes](S24.md)

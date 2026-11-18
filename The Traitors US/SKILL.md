@@ -195,7 +195,3 @@ Sources
 - https://www.realitytea.com/2026/01/12/the-traitors-us-season-3-winners/
 - https://www.whattowatch.com/watching-guides/the-traitors-us-release-date-cast-and-everything-we-know-about-the-reality-series
 - https://openthreadnews.com/tv-film/the-traitors-explained/
-
-## Episode notes
-
-- [Season 05 episode notes](S05.md)

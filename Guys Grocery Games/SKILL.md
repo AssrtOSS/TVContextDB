@@ -187,7 +187,3 @@ description: "File-based translation context for the TV series Guys Grocery Game
   https://en.wikipedia.org/wiki/Guy%27s_Grocery_Games
 - ASSRT字幕参考：ID 669374  
   https://assrt.net/xml/sub/669/669374.xml
-
-## Episode notes
-
-- [Season 42 episode notes](S42.md)

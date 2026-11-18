@@ -126,7 +126,3 @@ description: "File-based translation context for the TV series The Daily Show."
 - 中文维基百科：https://zh.wikipedia.org/wiki/每日秀
 - Comedy Central 官网：https://www.cc.com/shows/the-daily-show
 - IMDb：https://www.imdb.com/title/tt0115147/
-
-## Episode notes
-
-- [Season 31 episode notes](S31.md)

@@ -88,7 +88,3 @@ Noel和Sue均在婴儿时期被收养，童年相识。Sue 14岁时怀上第一�
 - TMDB: 22 Kids and Counting - https://www.themoviedb.org/tv/153798-22-kids-and-counting
 - TMDB Season 1 - https://www.themoviedb.org/tv/153798-22-kids-and-counting/season/1
 - Channel 5 Official - https://www.channel5.com/show/22-kids-and-counting/
-
-## Episode notes
-
-- [Season 09 episode notes](S09.md)

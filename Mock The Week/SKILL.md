@@ -142,7 +142,3 @@ Six stand-up comedians split into two teams of three. Host **Dara Ó Briain** po
 4. British Comedy Guide — “Mock The Week” (episode guide, cast, transmission dates) — <https://www.comedy.co.uk/tv/mock_the_week/>
 5. Chortle — “Mock The Weekipedia” (format history, round names, cancelled episode) — <https://www.chortle.co.uk/features/2015/05/28/22582/mock_the_weekipedia>
 6. TheTVDB — “Mock the Week” (aired-order episode data, round listings per episode) — <https://thetvdb.com/series/mock-the-week/allseasons/official>
-
-## Episode notes
-
-- [Season 23 episode notes](S23.md)

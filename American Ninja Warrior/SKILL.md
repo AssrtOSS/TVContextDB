@@ -205,7 +205,3 @@ description: "File-based translation context for the TV series American Ninja Wa
 
 - 维基百科中文页面，《极限体能王》：日本原版 SASUKE 及赛段背景  
   https://zh.wikipedia.org/wiki/極限體能王
-
-## Episode notes
-
-- [Season 18 episode notes](S18.md)
