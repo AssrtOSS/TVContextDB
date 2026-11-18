@@ -57,20 +57,20 @@ Three university best friends — Ethan, Abi, Sam — moved to London together a
 ## Recurring Terminology & Chinese Renderings
 
 | English term/phrase | Chinese rendering | Notes |
-|---|---|---|
-| uni | 大学 / 读大学时 | British usage; “from uni” = “大学同学/校友”. |
-| landlord selling up / getting kicked out | 房东卖房 / 赶我们走 | Central inciting incident. |
-| soulmates for life | 这辈子的灵魂伴侣 | Ironic/sincere; used self-mockingly. |
-| dysfunctional roommates | 不靠谱的室友 / 烂室友 | “Dysfunctional” → 不靠谱/烂/失调 per context. |
-| collectively accomplished nothing | 一事无成 / 什么都没成就 | Self-deprecating collective voice. |
-| six out of ten (or higher) | 六分以上(的人) | Dating rating scale; “找个六分以上的凑合上床”. |
-| bad sex | 烂性爱 / 差劲的性事 | Casual, blunt. |
-| get our shit together | 整顿生活 / 搞定生活 / 理顺生活 | Varies by register; “整顿” fits comedic desperation. |
-| the world is falling apart | 世界都在崩塌 / 世界烂透了 | Doom-anxiety catchphrase. |
-| delusional and irritating 24 year old | 妄想又讨厌的24岁 / 活在梦里又招人烦的24岁 | Leo Reich’s self-description; keep flavor. |
-| wait wait WAIT | 等一下 等一下 等一下 | Escalating comedic beat; preserve rhythm. |
-| Spoiler alert! It doesn’t. | 剧透警告：并不会 / 剧透：不会更好的 | Narrator/character tagline. |
-| narrator / narration | 旁白 / 旁白旁述 | Zadie Smith’s voice; literary, slightly detached. |
+|---------------------|-------------------|-------|
+| uni | 大学 / 读大学时 | British usage; "from uni" = "大学同学/校友" |
+| landlord selling up / getting kicked out | 房东卖房 / 赶我们走 | Central inciting incident |
+| soulmates for life | 这辈子的灵魂伴侣 | Ironic/sincere; used self-mockingly |
+| dysfunctional roommates | 不靠谱的室友 / 烂室友 | "Dysfunctional" → 不靠谱/烂/失调 per context |
+| collectively accomplished nothing | 一事无成 / 什么都没成就 | Self-deprecating collective voice |
+| six out of ten (or higher) | 六分以上(的人) | Dating rating scale; "找个六分以上的凑合上床" |
+| bad sex | 烂性爱 / 差劲的性事 | Casual, blunt |
+| get our shit together | 整顿生活 / 搞定生活 / 理顺生活 | Varies by register; "整顿" fits comedic desperation |
+| the world is falling apart | 世界都在崩塌 / 世界烂透了 | Doom-anxiety catchphrase |
+| delusional and irritating 24 year old | 妄想又讨厌的24岁 / 活在梦里又招人烦的24岁 | Leo Reich's self-description; keep flavor |
+| wait wait WAIT | 等一下 等一下 等一下 | Escalating comedic beat; preserve rhythm |
+| Spoiler alert! It doesn't. | 剧透警告：并不会 / 剧透：不会更好的 | Narrator/character tagline |
+| narrator / narration | 旁白 / 旁白旁述 | Zadie Smith's voice; literary, slightly detached |
 
 ## Speaking Styles
 - **Ethan (Leo Reich)**: Fast, self-interrupting, hyper-verbal anxiety; meta jokes; second-guessing mid-sentence. Jewish-British cadence possible. Subtitles: tight, preserve rhythm; don’t over-explain jokes.
@@ -96,3 +96,25 @@ Three university best friends — Ethan, Abi, Sam — moved to London together a
 ## Episode notes
 
 - [Season 01 episode notes](S01.md)
+
+## Overall Plot Premise
+Three university best friends — Ethan, Abi, and Sam — moved to London together a year ago. They consider themselves soulmates for life but are also deeply dysfunctional roommates who have "collectively accomplished nothing." When their landlord sells the flat, they are evicted and scattered across a city that "seems to want them dead." The series follows their attempts to keep the friendship alive while navigating humiliating jobs, non-existent love lives, dating disasters, bad sex, housing insecurity, and the general sense that the world is falling apart. The recurring refrain: "Surely it gets better than this? … Spoiler alert! It doesn't."
+
+## Established English/Chinese Character-Name Pairs
+
+| English | Chinese | Role / Notes |
+|---------|---------|--------------|
+| Ethan | 伊森 | Protagonist; played by creator Leo Reich. Anxious, self-deprecating, narratively central. |
+| Abi | 艾比 | Ethan's best friend/flatmate; sharp, pragmatic but equally lost. Played by Emily Fairn. |
+| Sam | 萨姆 | Third of the trio; played by Olive Gray. Often the mediator/observer. |
+| Sandie | 桑迪 | Gary Beadle. Recurring supporting role. |
+| Lucas | 卢卡斯 | Simon Haines. Recurring supporting role. |
+| Greta | 格蕾塔 | Lena Dunham guest star; CEO-type figure, "all business." |
+| Emily | 艾米莉 | Amelia Dimoldenberg. Distinct from Abi; guest role. |
+| Roger | 罗杰 | Blake Harrison. Guest. |
+| Sarah | 莎拉 | Vicki Pepperdine. Guest. |
+| Freddie | 弗雷迪 | Clayton Pettet. Spelling varies (Freddy); use 弗雷迪 consistently. |
+| Graham | 格雷厄姆 | Daniel Monks. Guest. |
+| Narrator (Zadie Smith) | 旁白 (扎迪·史密斯) | Novelist Zadie Smith; omniscient, literary, sardonic narration throughout. |
+
+*Secondary/unspecified cast (Sean Delaney, Dane Williams, India Mullen, Safia Oakley-Green, John Tothill, Arian Nik, Andrew Scott, Nicole Sadie Sawyerr, Phil Zimmerman, Billy Rilot, Kirsty Bloom, Luca Kamleh-Chapman, Emmeline Downie, Babymorocco) — assign Chinese renderings phonetically when lines appear; no established roles yet.*

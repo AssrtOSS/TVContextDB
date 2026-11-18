@@ -5,29 +5,33 @@ description: "File-based translation context for the TV series El nuevo mundo de
 
 # El nuevo mundo de los gnomos translation context
 
-The Spanish Wikipedia and English Wikipedia both confirm this is a 1997 Spanish animated TV series, 26 episodes, single season, by BRB Internacional for Antena 3, and provide cast/character details. No historical ASSRT references were available, so Chinese renderings below are based on the established franchise naming (大卫小矮人) plus standard Chinese conventions for the new characters.
+Both Wikipedia pages confirm everything: 1997 Spanish animated TV series, 26 episodes, 1 season, Antena 3 (Club Megatrix block), produced by BRB Internacional / Antena 3 TV / CLT-UFA / Panini, created by Claudio Biern Boyd, directed by Luis Ballester, narrated by Teófilo Martínez, based on El libro secreto de los gnomos by Wil Huygen, made with WWF. Full character list confirmed in Spanish: David, Lisa, Tomte, Millius, Noelia/Harold, plus the three trolls Babas/Bruto/Tufo with pets Patas/Garto/Vampi. Full 26-episode list verified. US airings on Mi Tele and Toonturama in 2002 confirmed.
+
+
 
 # El nuevo mundo de los gnomos — Translation Background
 
 ## Identification (verified)
 
-- Spanish title: El nuevo mundo de los gnomos
+- Spanish title: El nuevo mundo de los gnomos (also written "El Nuevo Mundo de los Gnomos")
 - English title: The New World of the Gnomes
-- Format: Spanish animated television series (serie de animación para televisión)
-- Type: Children's educational adventure, single season of 26 episodes
-- First air date: 4 March 1997 (Antena 3, Spain), within the Club Megatrix block; final episode aired 23 September 1997
+- Format: Spanish animated television series (serie de animación para televisión); educational adventure
 - Country: Spain
 - Original language: Spanish
-- Network: Antena 3 (original); later Mi Tele / Toonturama on TeleFutura in the US (2002)
-- Creators / producers: BRB Internacional, with Antena 3 TV, CLT-UFA, Editorial Panini
-- Created by: Claudio Biern Boyd
+- Created by: Claudio Biern Boyd, BRB Internacional
 - Directed by: Luis Ballester
-- Narrator: Teófilo Martínez
-- Episode runtime: approx. 24–27 minutes
-- Franchise position: Third entry in the David el Gnomo line, treated as a reboot/sequel of David, el Gnomo (1985) and La llamada de los gnomos / Wisdom of the Gnomes (1987)
-- Based on: El libro secreto de los gnomos by Wil Huygen and Rien Poortvliet
-- In collaboration with: WWF (World Wildlife Fund)
-- Awards: 1998 MIDIA Prize winner, Best Animated Series
+- Narrated by: Teófilo Martínez
+- Producers: BRB Internacional, Antena 3 TV, CLT-UFA, Editorial Panini
+- Co-produced with: WWF (World Wildlife Foundation)
+- Based on: El libro secreto de los gnomos by Wil Huygen and Rien Poortvliet (Dutch)
+- Original network: Antena 3 (Spain), aired in the Club Megatrix children's block
+- First aired: 4 March 1997
+- Last aired: 23 September 1997
+- US broadcasts: TeleFutura, Mi Tele block from 15 January 2002; Toonturama weekend block from 23 March 2002
+- Seasons: 1
+- Episodes: 26, each ~24 minutes
+- Awards: 1998 Premio MIDIA, Best Animated Series (winner)
+- Franchise position: Third animated series in the David el Gnomo / Gnomes cycle, treated as a reboot; follows The World of David the Gnome (1985) and Wisdom of the Gnomes / La llamada de los gnomos (1987)
 
 ## Overall premise
 
@@ -75,31 +79,57 @@ Note: the prior franchise David, el Gnomo is widely known in Chinese-speaking re
 
 ## World setting
 
-The gnome realm is a hidden parallel-natural world overlapping the human one. Gnome dwellings sit beneath ancient trees, in caves or burrows, always close to nature. The gnomes' headquarters for global environmental coordination is an unnamed council center led by Millius. Mission geography is Earth-wide: African savanna (elephants, rhinos), Amazon basin (rainforest, indigenous "Rain People" led by Chief Zeena), India (Bengal tigers), Scandinavia / Trondheim (great blue whales, owls, salmon), Mediterranean coast (forest fires, sea turtles), Australian Outback (koalas, kangaroos), tropical reefs, Himalayan panda habitats, polar regions and remote islands. The series is explicitly ecological and WWF-collaborated, with each episode framing a specific environmental threat (poaching, fire, pollution, ozone hole, deforestation, reef robbery, species extinction, etc.).
+Gnomes are a benevolent species standing 15 cm tall and weighing 250–300 g, identified by their omnipresent conical red cap. They are seven times stronger than humans relative to size but risk being stepped on in human spaces. They mate at age 100 and live exactly 400 years. Habitat-based subspecies include forest gnome, garden gnome, farm gnome, house gnome, dune gnome and Siberian gnome. They live as couples in caves or burrows beneath a large tree, accompanied by a pair of mice and a guardian cricket. Their diet is ovovegetarian (nature's produce plus surplus bird eggs). They are telepathic, know nature's secrets and oppose human damage to nature. Their natural enemies are trolls, depicted as smelly and clumsy. Gnomes ride birds and enlist forest animals for long-distance travel.
+
+The series' headquarters for global environmental coordination is an unnamed council center led by Millius, who receives distress reports from around the world and assigns them to David.
 
 ## Recurring terminology and Chinese renderings
 
-- gnomo / gnomos → 矮人 / 小矮人
+- gnomos → 矮人 / 小矮人
 - Madre Naturaleza → 大自然母亲
-- trolls → 巨魔 / 特罗尔 (consistent with David el Gnomo localization)
+- trolls / troles → 巨魔 / 特罗尔
 - telepatía → 心灵感应
-- huevo de la naturaleza / dieta ovovegetariana → 自然产卵 / 蛋素饮食
-- madriguera → 洞穴 / 地洞
-- ratón guardián / grillo guardián → 守门鼠 / 守门蟋蟀
-- gorro cónico → 圆锥帽 / 红尖帽 (cultural convention from the franchise)
+- gorro cónico → 圆锥帽 / 红尖帽
+- dieta ovovegetariana → 蛋素饮食
+- madriguera → 地洞 / 洞穴
+- ratón guardián → 守门鼠
+- grillo guardián → 守门蟋蟀
 - Caballero Real del Medio Ambiente → 大自然皇家骑士 / 环境皇家骑士
-- Consejo de Trondheim / Trondheim Council → 特隆赫姆委员会
 - especies en peligro → 濒危物种
 - áreas protegidas → 自然保护区
 - amenazas globales → 全球性威胁
 - la Expo de los Gnomos → 矮人博览会
 - el oro perdido del rey de los Gnomos → 矮人之王的失落黄金
-- Rain People (Pueblo de la Lluvia) → 雨之部族 / 雨族
-- Chief Zeena → 酋长齐娜
-- Paladín, caballero del agua → 圣骑士 水之骑士 (episode title)
-- Cobra Coral / coral reefs → 珊瑚礁
-- ballena azul → 蓝鲸
-- rinoceronte / "Rocky Rinoestrella" → 犀牛 / 犀牛明星罗基
+- Club Megatrix (broadcast block) → 梅加特里克斯俱乐部 / 米加特里克斯少儿时段
+
+Episode-title renderings for continuity reference:
+
+1. Los señores de la jungla — 丛林之主
+2. El gran incendio — 森林大火
+3. El canto de la ballena — 鲸之歌
+4. La leyenda del tigre — 老虎的传说
+5. Cambio de actitud — 态度转变
+6. Aventura en el Amazonas — 亚马逊冒险
+7. Humedales en peligro — 危在旦夕的湿地
+8. Gnomos al rescate — 矮人救援
+9. Extinguidos para siempre — 永远消失
+10. Ladrones de arrecifes — 珊瑚礁窃贼
+11. El enemigo invisible — 无形的敌人
+12. Un viaje increíble — 不可思议的旅程
+13. Paladín, caballero del agua — 圣骑士，水之骑士
+14. Salvemos el río — 拯救河流
+15. El agujero en el cielo — 天空中的洞
+16. Rocky Rinoestrella — 犀牛明星罗基
+17. La Expo de los Gnomos — 矮人博览会
+18. La senda de los pandas — 熊猫小径
+19. Odisea en el Mediterráneo — 地中海历险
+20. Expedición de elefantes — 大象远征
+21. Los Gnomos en Australia — 矮人在澳大利亚
+22. Perdidos por un día — 迷路一天
+23. La isla perdida — 失落之岛
+24. Tortugas en peligro — 海龟危机
+25. Oasis — 绿洲
+26. La boda más larga — 最漫长的婚礼
 
 ## Speaking styles
 
@@ -140,3 +170,41 @@ The gnome realm is a hidden parallel-natural world overlapping the human one. Gn
 ## Episode notes
 
 - [Season 01 episode notes](S01.md)
+
+# El nuevo mundo de los gnomos — Subtitle Translation Background
+
+## Characters (verified)
+
+- David — the principal gnome, ancient and wise, Royal Knight of the Environment (Caballero Real del Medio Ambiente); husband of Lisa; mission lead
+- Lisa — David's wife, same age; mother of Noelia and Harold; manages the household and joins adventures when needed
+- Noelia — daughter of David and Lisa
+- Harold — son of David and Lisa
+- Tomte — David's nephew, son of Claudio; awkward but eager travel companion
+- Claudio — Tomte's father; gnome elder
+- Millius — head of the environmental regulation center; receives global distress reports and assigns them to David; possesses telekinetic powers used to help nature
+- Babas — troll leader; pet spider Patas
+- Bruto — troll; pet lizard Garto
+- Tufo — troll; pet bat Vampi
+- The Gnome King (Rey) — referenced in plot material; "lost gold" story element
+- Animals — recurring allies include birds used for transport, owls, whales, foxes, tigers, gorillas, elephants, rhinos, pandas, sea turtles, koalas and kangaroos
+
+## Character-name pairs
+
+Note: The 1985 predecessor David el Gnomo has long been established in Chinese-speaking markets as 《大卫小矮人》 / 《小矮人大卫》. That naming convention carries into this series, with El nuevo mundo commonly rendered as 《小矮人的新世界》 or 《大卫小矮人新篇》. No historical ASSRT subtitles below ID 800000 match this title, so the new renderings below use Spanish-source transliteration conventions consistent with the prior franchise.
+
+- David → 大卫 / 大卫小矮人
+- Lisa → 丽莎
+- Noelia → 诺艾莉亚
+- Harold → 哈罗德
+- Tomte → 托姆特
+- Claudio → 克劳迪奥
+- Millius → 米利乌斯
+- Babas → 巴巴斯
+- Patas → 帕塔斯 (spider)
+- Bruto → 布鲁托
+- Garto → 加尔托 (lizard)
+- Tufo → 图福
+- Vampi → 万皮 (bat)
+- King of the Gnomes (Rey) → 矮人之王 / 雷伊
+- English-dub antagonist forms "Stinky, Brute, Drool" exist in some sources; use the Spanish forms Babas, Bruto, Tufo for Spanish-source subtitles
+- "Royal Knight of the Environment" → 环境皇家骑士 / 大自然皇家骑士
