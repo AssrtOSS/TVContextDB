@@ -1,0 +1,11 @@
+---
+name: the-hunting-wives-context
+description: "File-based translation context for the TV series The Hunting Wives."
+---
+
+# The Hunting Wives translation context
+
+
+## Episode notes
+
+- [Season 02 episode notes](S02.md)
