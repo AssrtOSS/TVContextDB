@@ -9,3 +9,7 @@ description: TV identity for Cunk & Other Humans on 2019; translate directly fro
 
 - TMDB TV: https://www.themoviedb.org/tv/97033
 - S01：6 集（2019）。
+
+## Episode notes
+
+- [Season 01 episode notes](S01.md)
